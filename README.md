@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/sqL6cPy' title='Simple Todo Video Walkthrough - Diwash' width='' alt='Video Walkthrough' />
+<img src= 'http://i.imgur.com/gallery/sqL6cPy' title='Simple Todo Video Walkthrough - Diwash' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
